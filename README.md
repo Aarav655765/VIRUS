@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or concerns about this repository:
 
 **Aarav** - [@AaravDevelops](https://github.com/Aaravdevelops)
-- **Email**: Contactaaravat@fearlessmails.com
+- **Email**: aaravdevelops@therategmail.com
 - **GitHub**: [Aaravdevelops](https://github.com/Aaravdevelops)
 - **Project Link**: [https://github.com/Aaravdevelops/VIRUS](https://github.com/Aaravdevelops/VIRUS)
 
